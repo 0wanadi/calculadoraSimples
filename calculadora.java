@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class calculadora{
     
-    public static void main(String args){
+    public static void main(String[] args){
         Scanner input = new Scanner(System.in);    
         
         double n1 = 0, n2 = 0, result = 0, Case= 0; 
